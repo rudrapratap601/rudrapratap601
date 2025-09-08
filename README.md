@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rudrapratap Sarma  
 
-![Rudrapratap Sarma – Aspiring Data Scientist | Machine Learning & AI Enthusiast](rudra.jpg)
+![Rudrapratap Sarma – Aspiring Data Scientist | Machine Learning & AI Enthusiast](Rudra.jpg)
 
 ## 🌱 About Me 
 Currently I'm in first semester, pursuing my BCA (Distance) from Manipal University Jaipur. I’m on an exciting journey into Python, Data Science, and Machine Learning, documenting my progress and sharing what I learn along the way.
