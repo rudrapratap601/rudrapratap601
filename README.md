@@ -27,7 +27,7 @@ To become a Data Scientist or AI Engineer at a leading tech company, where I can
 
 ## 🔗 Connect With Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rudrapratap-sarma)  
-- 🇰  [Kaggle](kaggle.com/rudrapratapsarma)  
+- 🇰  [Kaggle]([kaggle.com/rudrapratapsarma](https://www.kaggle.com/rudrapratapsarma))  
 - 📧 Email: rudrapratapsarma549@gmail.com
 
   ---
