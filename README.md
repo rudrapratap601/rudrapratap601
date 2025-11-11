@@ -1,35 +1,48 @@
 # 👋 Hi, I'm Rudrapratap Sarma  
 
-![Rudrapratap Sarma – Aspiring Data Scientist | Machine Learning & AI Enthusiast](Rudra's_Profile.png)
+🎯 **Aspiring Data Scientist | AI Engineer | BCA Student (Manipal University Jaipur - Online)**  
 
-## 🌱 About Me 
-Currently I'm in first semester, pursuing my BCA (Distance) from Manipal University Jaipur. I’m on an exciting journey into Python, Data Science, and Machine Learning, documenting my progress and sharing what I learn along the way.
+I’m on a journey to master **Data Science, Machine Learning, and AI Engineering**, applying what I learn to build **real-world projects** that solve meaningful problems using data and intelligent systems.  
 
-## 💡 What drives me:
+---
 
-- Turning raw data into insights that solve real-world problems
-- Exploring Machine Learning & AI models that can predict, recommend, and adapt
-- Understanding how technology can analyze not just numbers, but also human behavior & emotions
-- Growing through collaboration with learners and professionals in this space
+## 💼 Currently
+**Data Science & Machine Learning Intern @ YBI Foundation**  
+Working on real-world ML projects involving:
+- Predictive modeling (classification, regression, forecasting)
+- Data cleaning, preprocessing & feature engineering
+- Applying **Python, Pandas, NumPy, Scikit-learn**, and visualization libraries  
 
-## 📌 Current focus:
+---
 
-- Advancing Python skills (beyond basics → applied coding for DS/ML)
-- Learning ML concepts like preprocessing, normalization, and simple models
-- Building hands-on projects and documenting them on GitHub & Kaggle
-- Strengthening foundations in SQL and math for data science
+## 🎯 Focus Areas
+- 🔹 **Data Cleaning, EDA, and Statistical Analysis**  
+- 🔹 **Machine Learning & Model Evaluation** *(currently deepening my ML concepts and hands-on skills)*  
+- 🔹 **SQL and Power BI for Data Analytics**  
+- 🔹 **Deep Learning & MLOps** *(Learning Phase)*  
+- 🔹 **AI Systems & Generative AI** *(Future Focus)*  
 
-## 🌱 Why I share my journey:
-I believe growth compounds when we learn in public. My posts are not just updates, but also invitations for collaboration, discussions, and feedback.
+---
 
-## 🎯 Long-term goal:
-To become a Data Scientist or AI Engineer at a leading tech company, where I can contribute to innovative projects that leverage data for real-world impact.
+## 💡 What Drives Me
+Turning **messy data into meaningful insights** and building **AI systems** that can think, learn, and adapt.  
+I’m passionate about understanding how technology can interpret **human behavior, emotions, and decision patterns** through data and AI.  
 
-## 🔗 Connect With Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rudrapratap-sarma)  
-- 🇰  [Kaggle](https://www.kaggle.com/rudrapratapsarma)  
-- 📧 Email: rudrapratapsarma549@gmail.com
+---
 
-  ---
+## 🌱 Vision
+To become a **Full-Stack AI Engineer** capable of building intelligent, scalable systems that combine  
+📊 Data • 🤖 ML • ⚙️ MLOps • 🧠 GenAI  
 
-  ⭐ *“Turning curiosity into code, and code into impact.”*  
+My long-term goal is to contribute to innovative AI projects at companies like **Google, DeepMind, or OpenAI** — while working **remotely from India** 🇮🇳.  
+
+---
+
+## 🔗 Connect With Me
+- 🐙 **GitHub:** [github.com/rudrapratap601](https://github.com/rudrapratap601)  
+- 📊 **Kaggle:** [kaggle.com/rudrapratapsarma](https://kaggle.com/rudrapratapsarma)  
+- 💼 **LinkedIn:** [linkedin.com/in/rudrapratapsarma](https://linkedin.com/in/rudrapratapsarma)  
+
+---
+
+> “Learning, building, and innovating with data — one project at a time.” 🚀
