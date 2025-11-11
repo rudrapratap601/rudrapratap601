@@ -47,7 +47,7 @@ I’m on a journey to master **Data Science, Machine Learning, and AI Engineerin
 - 🔹 **Data Cleaning, EDA, and Statistical Analysis**  
 - 🔹 **Machine Learning & Model Evaluation** *(currently deepening ML concepts and hands-on skills)*  
 - 🔹 **SQL and Power BI for Data Analytics**  
-- 🔹 **Deep Learning & MLOps** *(Learning Phase)*  
+- 🔹 **Deep Learning & MLOps** *(Future Focus)* 
 - 🔹 **AI Systems & Generative AI** *(Future Focus)*  
 
 ---
