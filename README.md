@@ -6,6 +6,17 @@ I’m on a journey to master **Data Science, Machine Learning, and AI Engineerin
 
 ---
 
+### 📂 My Project Repositories
+
+| Category | Repository | Focus |
+|-----------|-------------|-------|
+| 🐍 **Core Python** | [Pure-Python-Projects](https://github.com/rudrapratap601/Pure-Python-Projects) | Data structures, algorithms, and logic building |
+| 📊 **Data Analysis** | *Coming soon!* | EDA, visualization, and Power BI dashboards |
+| 🤖 **ML Analytics** | *Planned* | Predictive models and business insights |
+| 🧠 **AI Engineer** | *Future* | Deep Learning, NLP, and deployment projects |
+
+---
+
 ## 💼 Currently
 **Data Science & Machine Learning Intern @ YBI Foundation**  
 📍 Working on real-world ML projects involving:
