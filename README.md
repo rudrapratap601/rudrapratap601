@@ -79,9 +79,10 @@ My long-term goal is to contribute to innovative AI projects at companies like *
 ---
 
 ## 🔗 Connect With Me
-- 🐙 **GitHub:** [github.com/rudrapratap601](https://github.com/rudrapratap601)  
-- 📊 **Kaggle:** [kaggle.com/rudrapratapsarma](https://kaggle.com/rudrapratapsarma)  
-- 💼 **LinkedIn:** [linkedin.com/in/rudrapratapsarma](https://www.linkedin.com/in/rudrapratap-sarma/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rudrapratap-sarma/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-rudrapratap601-black?logo=github)](https://github.com/rudrapratap601)  
+- [![Kaggle](https://img.shields.io/badge/Kaggle-rudrapratapsarma-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/rudrapratapsarma) 
+
 
 ---
 
