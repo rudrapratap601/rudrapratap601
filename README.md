@@ -11,7 +11,7 @@ I’m on a journey to master **Data Science, Machine Learning, and AI Engineerin
 | Category | Repository | Focus |
 |-----------|-------------|-------|
 | 🐍 **Core Python** | [Pure-Python-Projects](https://github.com/rudrapratap601/Pure-Python-Projects) | Data structures, algorithms, and logic building |
-| 📊 **Data Analysis** | *Coming soon!* | EDA, visualization, and Power BI dashboards |
+| 📊 **Data Analysis** | [Data-Analysis-Projects](https://github.com/rudrapratap601/Data-Analysis-Projects/tree/main) | EDA, visualization, and Power BI dashboards |
 | 🤖 **ML Analytics** | *Planned* | Predictive models and business insights |
 | 🧠 **AI Engineer** | *Future* | Deep Learning, NLP, and deployment projects |
 
