@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rudrapratap Sarma  
 
-🎯 **Aspiring Data Scientist | AI Engineer | BCA Student (Manipal University Jaipur - Online)**  
+🎯 **Aspiring Data Analyst | Python • SQL • Power BI | AI & Machine Learning Enthusiast | Hands-on Data Cleaning, EDA & Dashboards | Open to Remote Internship**  
 
 I’m on a journey to master **Data Science, Machine Learning, and AI Engineering**, applying what I learn to build **real-world projects** that solve meaningful problems using data and intelligent systems.  
 
