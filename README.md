@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Rudrapratap Sarma  
 
-🎯 **Aspiring Data Analyst | Python • SQL • Power BI | AI & Machine Learning Enthusiast | Hands-on Data Cleaning, EDA & Dashboards | Open to Remote Internship**  
+🎯 **Aspiring Data Analyst | AI & Machine Learning Enthusiast | Open to Remote Internship**  
 
 I’m on a journey to master **Data Science, Machine Learning, and AI Engineering**, applying what I learn to build **real-world projects** that solve meaningful problems using data and intelligent systems.  
+
+I have completed a 3-month Data Science & Machine Learning internship training program, where I built a strong foundation in Python, data cleaning, exploratory data analysis (EDA), Machine Learning and analytical thinking through hands-on assignments and projects.
 
 ---
 
@@ -18,11 +20,7 @@ I’m on a journey to master **Data Science, Machine Learning, and AI Engineerin
 ---
 
 ## 💼 Currently
-**Data Science & Machine Learning Intern @ YBI Foundation**  
-📍 Working on real-world ML projects involving:
-- Predictive modeling (classification, regression, forecasting)
-- Data cleaning, preprocessing & feature engineering
-- Applying **Python, Pandas, NumPy, Scikit-learn**, and visualization libraries  
+Currently, I am focused on Data Analytics, working on end-to-end projects using Python, SQL, and Power BI. My work involves transforming raw, messy datasets into structured insights, answering business-oriented questions, and presenting results through clear dashboards and reports. 
 
 ---
 
