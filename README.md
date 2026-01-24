@@ -14,6 +14,7 @@ I have completed a 3-month Data Science & Machine Learning internship training p
 |-----------|-------------|-------|
 | 🐍 **Core Python** | [Pure-Python-Projects](https://github.com/rudrapratap601/Pure-Python-Projects) | Data structures, algorithms, and logic building |
 | 📊 **Data Analysis** | [Data-Analysis-Projects](https://github.com/rudrapratap601/Data-Analysis-Projects/tree/main) | EDA, visualization, and Power BI dashboards |
+| 🐍 **Excel Analysis** | [Pure-Python-Projects](https://github.com/rudrapratap601/excel-analysis-projects) | Microsoft  Excel |
 | 🛒 **Blinkit Sales Performance Analysis** | [Blinkit-Analysis-Projects](https://github.com/rudrapratap601/blinkit-sales-performance-analysis) | EDA, visualization, and Power BI dashboards |
 | 🤖 **ML Analytics** | *Planned* | Predictive models and business insights |
 | 🧠 **AI Engineer** | *Future* | Deep Learning, NLP, and deployment projects |
