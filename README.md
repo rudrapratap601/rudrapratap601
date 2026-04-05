@@ -1,10 +1,18 @@
 # 👋 Hi, I'm Rudrapratap Sarma  
 
-🎯 **Aspiring Data Analyst | AI & Machine Learning Enthusiast | Open to Remote Internship**  
+🎯 **Data Analyst | AI & Machine Learning Enthusiast | Open to Remote Internship**  
 
 I’m on a journey to master **Data Science, Machine Learning, and AI Engineering**, applying what I learn to build **real-world projects** that solve meaningful problems using data and intelligent systems.  
 
-I have completed a 3-month Data Science & Machine Learning internship training program, where I built a strong foundation in Python, data cleaning, exploratory data analysis (EDA), Machine Learning and analytical thinking through hands-on assignments and projects.
+Currently pursuing BCA from Manipal University Jaipur, I work on end-to-end data analysis projects using Python, SQL, Excel, and Power BI, from data cleaning to insight generation and dashboard building.
+
+I have hands-on experience analyzing datasets across domains like sales, global production, and road safety. In my projects, I:
+
+- Clean and transform raw datasets 
+- Perform exploratory data analysis (EDA) to identify trends and patterns
+- Build dashboards to track KPIs like revenue, order volume, and performance metrics
+- Convert data into clear, business-focused insights
+
 
 ---
 
@@ -22,7 +30,9 @@ I have completed a 3-month Data Science & Machine Learning internship training p
 ---
 
 ## 💼 Currently
-Currently, I am focused on Data Analytics, working on end-to-end projects using Python, SQL, and Power BI. My work involves transforming raw, messy datasets into structured insights, answering business-oriented questions, and presenting results through clear dashboards and reports. 
+Currently, I am strengthening my foundation in Mathematics for Machine Learning and advancing into ML to move towards predictive analytics.
+
+I am actively looking for a Data Analyst Internship where I can apply my skills, work on real business problems, and grow as a data professional.
 
 ---
 
@@ -73,8 +83,6 @@ I’m passionate about understanding how technology can interpret **human behavi
 ## 🌱 Vision
 To become a **Full-Stack AI Engineer** capable of building intelligent, scalable systems that combine  
 📊 Data • 🤖 ML • ⚙️ MLOps • 🧠 GenAI  
-
-My long-term goal is to contribute to innovative AI projects at companies like **Google, DeepMind, or OpenAI** — while working **remotely from India** 🇮🇳.  
 
 ---
 
