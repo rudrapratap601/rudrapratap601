@@ -24,6 +24,7 @@ I have hands-on experience analyzing datasets across domains like sales, global 
 | 📊 **Data Analysis** | [Data-Analysis-Projects](https://github.com/rudrapratap601/Data-Analysis-Projects/tree/main) | EDA, visualization, and Power BI dashboards |
 | 🐍 **Excel Analysis** | [Excel-Analysis](https://github.com/rudrapratap601/excel-analysis-projects) | Microsoft  Excel |
 | 🛒 **Blinkit Sales Performance Analysis** | [Blinkit-Analysis-Projects](https://github.com/rudrapratap601/blinkit-sales-performance-analysis) | EDA, visualization, and Power BI dashboards |
+| 📊 **Data Analytics Platform** | [data-analytics-web-platform](https://github.com/rudrapratap601/data-analytics-web-platform) | Python, Streamlit, PostgreSQL(supabase), Pandas, Plotly, SQLAlchemy |
 | 🤖 **ML Analytics** | *Planned* | Predictive models and business insights |
 | 🧠 **AI Engineer** | *Future* | Deep Learning, NLP, and deployment projects |
 
@@ -32,7 +33,7 @@ I have hands-on experience analyzing datasets across domains like sales, global 
 ## 💼 Currently
 Currently, I am strengthening my foundation in Mathematics for Machine Learning and advancing into ML to move towards predictive analytics.
 
-I am actively looking for a Data Analyst Internship where I can apply my skills, work on real business problems, and grow as a data professional.
+I am actively looking for a Data Analyst or Data Analytics Internship where I can apply my skills, work on real business problems, and grow as a data professional.
 
 ---
 
