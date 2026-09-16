@@ -102,16 +102,36 @@ My interests include:
 
 ---
 
-## 📈 Activity Graph
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrapratap601&theme=github-dark&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrapratap601&theme=github_dark"
+    width="95%"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrapratap601&theme=github_dark"
+    width="45%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudrapratap601&theme=github_dark"
+    width="45%"
+  />
+</p>
+
+---
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rudrapratap601&theme=github-dark&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=rudrapratap601&theme=github-dark&hide_border=true"
+    width="70%"
+  />
 </p>
 
 ---
