@@ -1,148 +1,236 @@
-# 👋 Hi, I'm Rudrapratap Sarma
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Analyst;Building+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI;Learning+Machine+Learning+Through+Projects;Open+to+Data+Analytics+Internships" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/rudrapratap601">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/rudrapratap-sarma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-grey?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://kaggle.com/rudrapratapsarma">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-darkgrey?style=for-the-badge&logo=kaggle">
-  </a>
-</p>
+# Hi, I'm Rudrapratap Sarma 👋
 
----
+### Data Analyst | Python Developer | Aspiring Machine Learning Engineer
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Solutions;Exploring+AI+and+Predictive+Analytics;Open+to+Data+Analytics+Opportunities" alt="Typing SVG" />
 
-I'm a Data Analytics student and aspiring Machine Learning Engineer focused on transforming raw data into actionable insights.
+<br/>
 
-Currently pursuing a Bachelor of Computer Applications (BCA) from Manipal University Jaipur, I work on real-world analytics projects involving Python, SQL, Power BI, PostgreSQL, Streamlit, and business intelligence workflows.
+<a href="https://github.com/rudrapratap601">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/rudrapratap-sarma/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://kaggle.com/rudrapratapsarma">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
 
-My interests include:
+<br/><br/>
 
-* Data Analytics
-* Business Intelligence
-* Machine Learning
-* Behavioral Analytics
-* AI-Powered Applications
-* Data Product Development
+<img src="https://komarev.com/ghpvc/?username=rudrapratap601&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 💼 Experience
+## 👨‍💻 About Me
+
+I'm a **Data Analytics student and aspiring Machine Learning Engineer** passionate about transforming raw data into meaningful insights and building intelligent, data-driven applications.
+
+Currently pursuing my **Bachelor of Computer Applications (BCA) at Manipal University Jaipur**, I focus on developing practical skills through real-world projects involving data analysis, business intelligence, statistical analysis, and machine learning.
+
+My work combines analytical thinking, programming, and data visualization to solve problems and support informed decision-making.
+
+- 🎓 Pursuing BCA at **Manipal University Jaipur**
+- 📊 Building end-to-end data analytics and business intelligence projects
+- 🐍 Working with Python, SQL, Pandas, and data visualization libraries
+- 🤖 Exploring machine learning, predictive analytics, and AI applications
+- 🌱 Strengthening my knowledge of advanced SQL, statistics, and ML
+- 🤝 Interested in open-source collaboration and real-world data projects
+- 💼 Open to **Data Analyst and Data Science internship opportunities**
+
+---
+
+## 💼 Professional Experience
 
 ### Data Operations & Analytics Intern
 
 **Jobyaari | Remote**
 
-* Structured unorganized job notification datasets
-* Performed cleaning, validation, and categorization workflows
-* Built backend-ready datasets for publishing pipelines
-* Improved data quality through extraction and verification processes
-* Worked with real-world operational datasets
+Worked with real-world operational datasets, focusing on data preparation, quality assurance, and structured information management.
+
+**Key Responsibilities:**
+
+- Structured and organized unstructured job notification datasets.
+- Performed data cleaning, validation, and categorization.
+- Prepared backend-ready datasets for publishing pipelines.
+- Improved data consistency through extraction and verification workflows.
+- Supported data quality and operational data management processes.
+
+**Core Skills:** Data Cleaning · Data Validation · Data Preparation · Data Quality · Data Operations
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-### Programming & Analytics
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge\&logo=postgresql)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-grey?style=for-the-badge\&logo=numpy)
+### Programming & Data Analysis
 
-### Visualization & BI
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="45"/>
 
-![Power BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge\&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-grey?style=for-the-badge\&logo=microsoftexcel)
-![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge\&logo=plotly)
+<br/><br/>
 
-### Databases
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-grey?style=for-the-badge\&logo=supabase)
+<br/>
 
-### Tools
+### Machine Learning & AI
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
-![Streamlit](https://img.shields.io/badge/Streamlit-black?style=for-the-badge\&logo=streamlit)
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 
----
+### Data Visualization & Business Intelligence
 
-### 📂 My Project Repositories
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 
-| Category | Repository | Focus |
-|-----------|-------------|-------|
-| 🐍 **Core Python** | [Pure-Python-Projects](https://github.com/rudrapratap601/Pure-Python-Projects) | Data structures, algorithms, and logic building |
-| 📊 **Data Analysis** | [Data-Analysis-Projects](https://github.com/rudrapratap601/Data-Analysis-Projects/tree/main) | EDA, visualization, and Power BI dashboards |
-| 🐍 **Excel Analysis** | [Excel-Analysis](https://github.com/rudrapratap601/excel-analysis-projects) | Microsoft  Excel |
-| 🛒 **Blinkit Sales Performance Analysis** | [Blinkit-Analysis-Projects](https://github.com/rudrapratap601/blinkit-sales-performance-analysis) | EDA, visualization, and Power BI dashboards |
-| 📊 **Data Analytics Platform** | [data-analytics-web-platform](https://github.com/rudrapratap601/data-analytics-web-platform) | Python, Streamlit, PostgreSQL(supabase), Pandas, Plotly, SQLAlchemy |
-| 🤖 **ML Analytics** | *Planned* | Predictive models and business insights |
-| 🧠 **AI Engineer** | *Future* | Deep Learning, NLP, and deployment projects |
+<br/>
 
----
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 
-## 🎯 Current Focus
+<br/>
 
-* Advanced SQL
-* Machine Learning Fundamentals
-* Predictive Analytics
-* Data Product Development
-* End-to-End Analytics Projects
+### Databases & Data Management
 
----
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" alt="MySQL, PostgreSQL, Supabase"/>
+
+<br/><br/>
+
+### Development Tools & Frameworks
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 📂 Featured Projects & Repositories
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrapratap601&theme=github_dark"
-    width="95%"
-  />
-</p>
+A collection of projects demonstrating my experience in Python programming, exploratory data analysis, business intelligence, and data application development.
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrapratap601&theme=github_dark"
-    width="45%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudrapratap601&theme=github_dark"
-    width="45%"
-  />
-</p>
+### 📊 Data Analytics & Business Intelligence
 
----
-## 🔥 Contribution Streak
+| Project | Description | Technologies |
+|:--------|:------------|:-------------|
+| [Data Analysis Projects](https://github.com/rudrapratap601/Data-Analysis-Projects) | Exploratory data analysis, data cleaning, visualization, and analytical reporting. | Python, Pandas, Power BI |
+| [Blinkit Sales Performance Analysis](https://github.com/rudrapratap601/blinkit-sales-performance-analysis) | Sales performance analysis using exploratory data analysis, visualization, and interactive dashboards. | Python, EDA, Power BI |
+| [Excel Analysis Projects](https://github.com/rudrapratap601/excel-analysis-projects) | Spreadsheet-based data analysis and reporting projects. | Microsoft Excel |
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rudrapratap601&theme=github-dark&hide_border=true"
-    width="70%"
-  />
-</p>
+### 🧑‍💻 Python & Data Application Development
+
+| Project | Description | Technologies |
+|:--------|:------------|:-------------|
+| [Pure Python Projects](https://github.com/rudrapratap601/Pure-Python-Projects) | Python programming projects focused on problem-solving, data structures, algorithms, and logical thinking. | Python |
+| [Data Analytics Web Platform](https://github.com/rudrapratap601/data-analytics-web-platform) | A data analytics platform integrating data processing, database management, and interactive visualizations. | Python, Streamlit, PostgreSQL, Supabase, Pandas, Plotly, SQLAlchemy |
+
+### 🚧 Upcoming Projects
+
+| Area | Focus |
+|:-----|:------|
+| Machine Learning & Predictive Analytics | Developing predictive models and applying machine learning to real-world datasets. |
+| AI & Intelligent Applications | Exploring deep learning, natural language processing, and AI-powered application development. |
 
 ---
 
-## 💡 Philosophy
+## 🎯 Current Learning & Development
 
-> Data tells stories. My job is to uncover them, understand them, and turn them into decisions.
+I'm continuously expanding my technical knowledge through structured learning, hands-on experimentation, and project-based development.
+
+```text
+Data Analytics
+    ├── Advanced SQL & Query Optimization
+    ├── Statistical Analysis
+    ├── Exploratory Data Analysis
+    └── Business Intelligence
+
+Machine Learning
+    ├── Supervised & Unsupervised Learning
+    ├── Feature Engineering
+    ├── Model Evaluation
+    └── Predictive Analytics
+
+Software Development
+    ├── Data Structures & Algorithms
+    ├── Python Development
+    ├── Git & Open-Source Collaboration
+    └── End-to-End Data Applications
+```
+
+**My goal:** To develop the analytical, programming, and machine learning skills required to build reliable data products and solve meaningful real-world problems.
 
 ---
 
-## 🔗 Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rudrapratap-sarma/)  
-- [![GitHub](https://img.shields.io/badge/GitHub-rudrapratap601-black?logo=github)](https://github.com/rudrapratap601)  
-- [![Kaggle](https://img.shields.io/badge/Kaggle-rudrapratapsarma-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/rudrapratapsarma) 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrapratap601&theme=github_dark" width="95%" alt="GitHub Profile Summary"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrapratap601&theme=github_dark" width="45%" alt="Repositories by Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudrapratap601&theme=github_dark" width="45%" alt="Most Committed Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rudrapratap601&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 💡 My Philosophy
+
+<div align="center">
+
+### "Data tells stories. My job is to uncover them, understand them, and turn them into decisions."
+
+I believe meaningful insights come from curiosity, structured thinking, and the ability to connect data with real-world problems.
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, data professionals, and people working on interesting problems in analytics and artificial intelligence.
+
+Feel free to reach out for collaboration, project discussions, or professional opportunities.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rudrapratap-sarma/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/rudrapratap601">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://kaggle.com/rudrapratapsarma">
+  <img src="https://img.shields.io/badge/Kaggle-Explore_My_Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!**
+
+</div>
