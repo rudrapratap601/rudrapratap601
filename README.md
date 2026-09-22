@@ -5,7 +5,7 @@
 
 ### Data Analyst | Python Developer | Aspiring Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Solutions;Exploring+AI+and+Predictive+Analytics;Open+to+Data+Analytics+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Solutions;Exploring+AI+and+Predictive+Analytics;Open+to+Data+Analytics+Opportunities" alt="Typing SVG" />
 
 <br/>
 
