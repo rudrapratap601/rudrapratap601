@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rudrapratap601&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rudrapratap601&label=Profile%20Views&color=808080&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -40,6 +40,7 @@ My work combines analytical thinking, programming, and data visualization to sol
 - 🐍 Working with Python, SQL, Pandas, and data visualization libraries
 - 🤖 Exploring machine learning, predictive analytics, and AI applications
 - 🌱 Strengthening my knowledge of advanced SQL, statistics, and ML
+- 🌍 Actively learning and contributing to open-source projects
 - 🤝 Interested in open-source collaboration and real-world data projects
 - 💼 Open to **Data Analyst and Data Science internship opportunities**
 
@@ -84,6 +85,8 @@ Worked with real-world operational datasets, focusing on data preparation, quali
 ### Machine Learning & AI
 
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+
+<br/>
 
 ### Data Visualization & Business Intelligence
 
@@ -146,6 +149,46 @@ A collection of projects demonstrating my experience in Python programming, expl
 
 ---
 
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+I'm actively contributing to open-source projects, collaborating with developers, and strengthening my software engineering skills.
+
+<br/>
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3Arudrapratap601">
+  <img src="https://img.shields.io/badge/Pull_Requests-View_All-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests"/>
+</a>
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3Arudrapratap601+is%3Amerged">
+  <img src="https://img.shields.io/badge/Merged_PRs-View_Contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="Merged Pull Requests"/>
+</a>
+
+<br/><br/>
+
+### 📈 Contribution Activity
+
+<img src="https://streak-stats.demolab.com?user=rudrapratap601&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+<a href="https://github.com/rudrapratap601?tab=overview">
+  <img src="https://img.shields.io/badge/GitHub-Contribution_History-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Contribution History"/>
+</a>
+
+</div>
+
+### 🤝 Open Source Journey
+
+| Project | Contribution | Status |
+|:--------|:-------------|:-------|
+| [First Contributions](https://github.com/firstcontributions/first-contributions) | My first open-source contribution | Merged |
+
+*Continuously exploring new projects and contributing to the open-source community.*
+
+---
+
 ## 🎯 Current Learning & Development
 
 I'm continuously expanding my technical knowledge through structured learning, hands-on experimentation, and project-based development.
@@ -168,6 +211,12 @@ Software Development
     ├── Python Development
     ├── Git & Open-Source Collaboration
     └── End-to-End Data Applications
+
+Open Source
+    ├── Git & GitHub Workflows
+    ├── Pull Requests & Code Reviews
+    ├── Collaborative Development
+    └── Google Summer of Code Preparation
 ```
 
 **My goal:** To develop the analytical, programming, and machine learning skills required to build reliable data products and solve meaningful real-world problems.
@@ -189,11 +238,15 @@ Software Development
 
 ---
 
-## 🔥 Contribution Activity
+## 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rudrapratap601&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub Contribution Streak"/>
+<img src="https://komarev.com/ghpvc/?username=rudrapratap601&label=Profile%20Views&color=808080&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+Thanks for visiting my GitHub profile!
 
 </div>
 
@@ -222,9 +275,11 @@ Feel free to reach out for collaboration, project discussions, or professional o
 <a href="https://www.linkedin.com/in/rudrapratap-sarma/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://github.com/rudrapratap601">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://kaggle.com/rudrapratapsarma">
   <img src="https://img.shields.io/badge/Kaggle-Explore_My_Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
