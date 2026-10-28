@@ -149,11 +149,11 @@ A collection of projects demonstrating my experience in Python programming, expl
 
 ---
 
-## 🌍 Open Source Contributions
+## 🌍 Contributions
 
 <div align="center">
 
-I'm actively contributing to open-source projects, collaborating with developers, and strengthening my software engineering skills.
+I'm actively contributing to my projects, and strengthening my software AI ML engineering and skills.
 
 <br/>
 
@@ -179,14 +179,6 @@ I'm actively contributing to open-source projects, collaborating with developers
 
 </div>
 
-### 🤝 Open Source Journey
-
-| Project | Contribution | Status |
-|:--------|:-------------|:-------|
-| [First Contributions](https://github.com/firstcontributions/first-contributions) | My first open-source contribution | Merged |
-
-*Continuously exploring new projects and contributing to the open-source community.*
-
 ---
 
 ## 🎯 Current Learning & Development
@@ -209,14 +201,9 @@ Machine Learning
 Software Development
     ├── Data Structures & Algorithms
     ├── Python Development
-    ├── Git & Open-Source Collaboration
+    ├── Git & GitHub
     └── End-to-End Data Applications
 
-Open Source
-    ├── Git & GitHub Workflows
-    ├── Pull Requests & Code Reviews
-    ├── Collaborative Development
-    └── Google Summer of Code Preparation
 ```
 
 **My goal:** To develop the analytical, programming, and machine learning skills required to build reliable data products and solve meaningful real-world problems.
